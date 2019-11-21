@@ -1,10 +1,10 @@
-# Hotspotting - Our Last Mile Delivery System
+# Hotspotting - Last Mile Delivery System
 
 This is a project developed during the [ŠKODA Smart Mobility Hackathon 2019](https://www.ceehacks.com/smhprague2019/) held at [ŠKODA AUTO DigiLab, Prague](https://skodaautodigilab.com/). 
 
 ![hackathon-group](images/group.jpg?raw=true "Title")
 
-We took on the challenge of Effective Delivery.
+We took on the challenge of **Effective Delivery**.
 Based on a set of data about deliveries collected from more than 500.000 delivery rides, we have to find the best possible route planning and effective use of resources available. 
 
 We created an algorithm that finds bottlenecks based on the data provided from [DoDo](https://idodo.cz/en/for-partners-2/), a Czech Republic delivery company to discover cases of the low driver and car utilization.
@@ -23,7 +23,7 @@ An optimal bus stop consists of the shortest time taken from **starting location
 
 ## Prerequisites
 
-- Python 3.6 or above
+- Python 3.6 (and above)
 
 ## Libraries and APIs used
 
@@ -35,7 +35,7 @@ An optimal bus stop consists of the shortest time taken from **starting location
 
 ## Authors
 
-* **Dalson Tan** - *Initial work* - [dalsontws](https://github.com/dalsontws)
+* **Dalson Tan** - [dalsontws](https://github.com/dalsontws)
 
 ## Acknowledgments
 
