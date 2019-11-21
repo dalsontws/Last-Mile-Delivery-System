@@ -16,16 +16,16 @@ Using the algorithm, we can identify bus stops in Prague as possible areas for d
 
 From the starting location, we will use the conventional mode of transport (car, motorbike) to the identified bus stop, and continue the last mile journey to the destination using a bicycle. 
 
-### How it works
+## How it works
 
 The python script `bus-stop-identifier.py` takes in an existing data set with bus stop data and identify a singular bus stop between the **starting location** and the **destination** that is optimal. 
 An optimal bus stop consists of the shortest time taken from **starting location** to bus stop using a car/motorbike, together with the shortest time taken from that bus stop to the **destination** using a bicycle. 
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.6 or above
 
-### Libraries and APIs used
+## Libraries and APIs used
 
 - Pandas for data manipulation and extraction
 - Requests for API calls 
@@ -33,11 +33,11 @@ An optimal bus stop consists of the shortest time taken from **starting location
 - HERE REST API for Route Planning
 
 
-### Authors
+## Authors
 
 * **Dalson Tan** - *Initial work* - [dalsontws](https://github.com/dalsontws)
 
-### Acknowledgments
+## Acknowledgments
 
 * DoDo for providing historical dataset for algorithm implementation
 * HERE Maps for their route planning API
