@@ -1,6 +1,6 @@
-# Hotspotting - Last Mile Delivery System
+# Last Mile Delivery System
 
-This is a project developed during the [ŠKODA Smart Mobility Hackathon 2019](https://www.ceehacks.com/smhprague2019/) held at [ŠKODA AUTO DigiLab, Prague](https://skodaautodigilab.com/). 
+This is a project developed during the [ŠKODA Smart Mobility Hackathon 2019](https://www.ceehacks.com/smhprague2019/) held at [ŠKODA AUTO DigiLab, Prague](https://skodaautodigilab.com/). It was named as *HotSpots*, by our team, *EastSiders*
 
 ![hackathon-group](images/group.jpg?raw=true "Title")
 
