@@ -25,3 +25,8 @@ We created an algorithm that finds bottlenecks based on the data provided from [
 ### Authors
 
 * **Dalson Tan** - *Initial work* - [dalsontws](https://github.com/dalsontws)
+
+### Acknowledgments
+
+* DoDo for providing historical dataset for algorithm implementation
+* HERE Maps for their route planning API
