@@ -1,0 +1,7 @@
+,id,order_id,client_id,branch_name,country,pickup_address,pickup_latitude,pickup_longitude,delivery_address,delivery_latitude,delivery_longitude,created,required_delivery,delivered,status,total_price,payment_type,courier_id
+0,1,368,1,skyous,CZ,"Plzeň, Sukova 2895/23","49,7281","13,3624","PLZEŇ 209, PLZEŇ","49,73828","13,36084",2017-02-16 12:25:48.0000000,2017-02-16 12:55:00.0000000,2017-02-16 13:26:56.0000000,Delivered,234.0,Cash on delivery,10
+6,7,376,1,skyous,CZ,"Plzeň, Sukova 2895/23","49,7281","13,3624","SLOVANSKÁ ALEJ 30, Plzeň","49,7271462","13,4095308",2017-02-16 16:17:02.0000000,2017-02-16 16:46:00.0000000,2017-02-16 16:40:12.0000000,Delivered,257.0,Card on delivery,9
+14,15,384,1,skyous,CZ,"Plzeň, Sukova 2895/23","49,7281","13,3624","VRCHLICKÉHO 1751, PLZEŇ","49,73338","13,37214",2017-02-16 18:46:06.0000000,2017-02-16 19:15:00.0000000,2017-02-16 19:17:17.0000000,Delivered,393.0,Cash on delivery,21
+165445,315446,156965,1,skyous,CZ,"Plzeň, Sukova 2895/23","49,7281","13,3624","SUKOVA 2348/2, PLZEŇ","49,73029","13,36784",2017-02-16 15:09:22.0000000,2017-02-16 15:39:00.0000000,,Canceled,347.0,Cash on delivery,20
+165446,315447,156966,1,skyous,CZ,"Plzeň, Sukova 2895/23","49,7281","13,3624","SUKOVA 2348/2, PLZEŇ","49,73029","13,36784",2017-02-16 08:26:36.0000000,2017-02-16 08:56:00.0000000,,Canceled,268.0,Cash on delivery,20
+165447,315448,156967,1,skyous,CZ,"Plzeň, Sukova 2895/23","49,7281","13,3624","SUKOVA 1260/5, PLZEŇ","49,72949","13,36817",2017-02-16 10:18:26.0000000,2017-02-16 10:47:00.0000000,,Canceled,268.0,Cash on delivery,20

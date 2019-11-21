@@ -1,0 +1,9 @@
+CODE,LABEL
+1,metro
+2,tramvaj
+4,autobus
+6,tramvaj+autobus
+8,lanovka
+16,vlak
+20,vlak+autobus
+32,loď
